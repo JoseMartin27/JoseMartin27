@@ -1,16 +1,41 @@
-## Hi there 👋
+🌟 ¡Hola! Soy [Jose Ángel Martín Pérez] 👋
 
-<!--
-**JoseMartin27/JoseMartin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Desarrollador apasionado | Entusiasta de la tecnología | Aprendiz constante 🚀
+🚀 Sobre mí:
 
-Here are some ideas to get you started:
+    💻 Actualmente trabajando en: [Proyecto intermodular-PHP/SQL]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🌱 Aprendiendo: [Desarro de aplicaciones web]
+
+    👨‍💻 Me encanta colaborar en proyectos de código abierto y crear soluciones innovadoras.
+
+    📌 Siempre abierto a nuevas oportunidades y conexiones.
+
+⚡ Habilidades principales:
+
+    💡 Lenguajes: [Python, Java, etc.]
+
+    🧩 Frameworks: [Html, CSS, etc.]
+
+    🚀 DevOps: [GitHub Actions, etc.]
+
+    🔧 Herramientas: [VS Code, Git, etc.]
+
+🌐 Encuéntrame en:
+
+    💼 LinkedIn
+
+    🌐 Portafolio
+
+    📫 Email: [joseamp27t@gmail.com]
+
+📊 Estadísticas de GitHub:
+
+
+🚀 Proyectos destacados:
+
+    🌟 Proyecto 1 - Breve descripción.
+
+    🌟 Proyecto 2 - Breve descripción.
+
+🤝 ¡Gracias por visitar mi perfil! No dudes en contactarme. 🚀
