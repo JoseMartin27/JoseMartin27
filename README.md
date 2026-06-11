@@ -1,41 +1,25 @@
-🌟 ¡Hola! Soy [Jose Ángel Martín Pérez] 👋
+# José Ángel Martín Pérez
 
-🌐 Desarrollador apasionado | Entusiasta de la tecnología | Aprendiz constante 🚀
-🚀 Sobre mí:
+Desarrollador web frontend con base en Valladolid, actualmente en el departamento 
+de Ingeniería de Synersight. Me formé en el ciclo superior de Desarrollo de 
+Aplicaciones Web y desde entonces trabajo principalmente con React y Angular, 
+tocando también backend y bases de datos cuando el proyecto lo requiere.
 
-    💻 Actualmente trabajando en: [Proyecto intermodular-PHP/SQL]
+Todavía aprendiendo, pero con experiencia real en proyectos en producción.
 
-    🌱 Aprendiendo: [Desarro de aplicaciones web]
+---
 
-    👨‍💻 Me encanta colaborar en proyectos de código abierto y crear soluciones innovadoras.
+## Stack principal
 
-    📌 Siempre abierto a nuevas oportunidades y conexiones.
+**Frontend:** React · Angular · JavaScript · HTML · CSS  
+**Backend:** ASP.NET · Visual Basic .NET · PHP · Java  
+**Bases de datos:** SQL Server · MySQL · Oracle  
+**Herramientas:** Git · GitLab · Visual Studio · VS Code  
+**Sistemas:** Windows Server · Ubuntu · Kali Linux · VirtualBox · VMware  
 
-⚡ Habilidades principales:
+---
 
-    💡 Lenguajes: [Python, Java, etc.]
+## Contacto
 
-    🧩 Frameworks: [Html, CSS, etc.]
-
-    🚀 DevOps: [GitHub Actions, etc.]
-
-    🔧 Herramientas: [VS Code, Git, etc.]
-
-🌐 Encuéntrame en:
-
-    💼 LinkedIn
-
-    🌐 Portafolio
-
-    📫 Email: [joseamp27t@gmail.com]
-
-📊 Estadísticas de GitHub:
-
-
-🚀 Proyectos destacados:
-
-    🌟 Proyecto 1 - Breve descripción.
-
-    🌟 Proyecto 2 - Breve descripción.
-
-🤝 ¡Gracias por visitar mi perfil! No dudes en contactarme. 🚀
+- LinkedIn: [linkedin.com/in/jose-ángel-martín-pérez-767233132](#)
+- Email: joseamp27t@gmail.com
