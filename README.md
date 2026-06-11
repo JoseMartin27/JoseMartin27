@@ -21,5 +21,5 @@ Todavía aprendiendo, pero con experiencia real en proyectos en producción.
 
 ## Contacto
 
-- LinkedIn: [linkedin.com/in/jose-ángel-martín-pérez-767233132](#)
+- LinkedIn: [linkedin.com/in/jose-angel-martin-perez](https://www.linkedin.com/in/jose-ángel-martín-pérez-767233132)
 - Email: joseamp27t@gmail.com
