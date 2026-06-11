@@ -1,4 +1,4 @@
-# José Ángel Martín Pérez
+# Jose Ángel Martín Pérez
 
 Desarrollador web frontend con base en Valladolid, actualmente en el departamento 
 de Ingeniería de Synersight. Me formé en el ciclo superior de Desarrollo de 
